@@ -1,5 +1,0 @@
-{
-  "name": "FireView - Firebase Explorer",
-  "description": "A secure, educational tool to connect, visualize, and modify Firebase Realtime Database instances via REST API.",
-  "requestFramePermissions": []
-}
